@@ -33,7 +33,8 @@ I love exploring new algorithms, experimenting with datasets, and creating end-t
 ### [Stroke Prediction](https://github.com/Prithvi-Siddharth/Stroke-prediction)
 A machine learning project aimed at predicting the likelihood of a stroke based on various health metrics.
 
-
+### [Drug Recommendation](https://github.com/Prithvi-Siddharth/Drug-Detection)
+A machine learning project aimed at recommending the top 5 drugs for the corresponding medical condition.
 
 ---
 
@@ -45,3 +46,4 @@ A machine learning project aimed at predicting the likelihood of a stroke based 
 ---
 
 > "Data is the new oil, but insights are the fuel." 🚀
+
