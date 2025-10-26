@@ -14,8 +14,8 @@ I love exploring new algorithms, experimenting with datasets, and creating end-t
 
 - **Programming Languages:** Python, SQL, Java, c++  
 - **Machine Learning & AI:** Scikit-learn, Supervised and Unsupervised Learning  
-- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
-- **Databases:** MySQL, PostgreSQL 
+- **Data Analysis & Visualization:** Pandas, NumPy 
+- **Databases:** PostgreSQL 
 - **Tools & Platforms:** Jupyter, Git 
 
 ---
@@ -46,4 +46,5 @@ A machine learning project aimed at recommending the top 5 drugs for the corresp
 ---
 
 > "Data is the new oil, but insights are the fuel." 🚀
+
 
