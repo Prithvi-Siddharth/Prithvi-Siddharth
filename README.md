@@ -13,9 +13,9 @@ I love exploring new algorithms, experimenting with datasets, and creating end-t
 ## 🛠️ Skills & Technologies
 
 - **Programming Languages:** Python, SQL, Java, c++  
-- **Machine Learning & AI:** Scikit-learn, Supervised and Unsupervised Learning  
-- **Data Analysis & Visualization:** Pandas, NumPy 
-- **Databases:** PostgreSQL 
+- **Machine Learning & AI:** Scikit-learn, Supervised and Unsupervised Learning, Deep Learning
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib
+- **Databases:** PostgreSQL
 - **Tools & Platforms:** Jupyter, Git 
 
 ---
@@ -36,15 +36,18 @@ A machine learning project aimed at predicting the likelihood of a stroke based 
 ### [Drug Recommendation](https://github.com/Prithvi-Siddharth/Drug-Detection)
 A machine learning project aimed at recommending the top 5 drugs for the corresponding medical condition.
 
+### [Drug Recommendation](https://github.com/Prithvi-Siddharth/MLJ)
+A custom made mini library in java that supports scikit-learn and pandas functions 
+
 ---
 
 ## 📫 Connect with Me
 
 - [LinkedIn](https://in.linkedin.com/in/prithvi-manepalli-32488a321)  
-- [Kaggle](https://www.kaggle.com/prithvimanepalli)  
 
 ---
 
 > "Data is the new oil, but insights are the fuel." 🚀
+
 
 
