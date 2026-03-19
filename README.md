@@ -36,7 +36,7 @@ A machine learning project aimed at predicting the likelihood of a stroke based 
 ### [Drug Recommendation](https://github.com/Prithvi-Siddharth/Drug-Detection)
 A machine learning project aimed at recommending the top 5 drugs for the corresponding medical condition.
 
-### [Drug Recommendation](https://github.com/Prithvi-Siddharth/MLJ)
+### [MLJ](https://github.com/Prithvi-Siddharth/MLJ)
 A custom made mini library in java that supports scikit-learn and pandas functions 
 
 ---
