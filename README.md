@@ -1,13 +1,24 @@
+
 <!-- HERO -->
 <div align="center">
-  <!-- Starfield Space Field Banner with Shooting Stars -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="200" alt="Starfield Galaxy Field" style="object-fit: cover; border-radius: 8px;" />
+  <!-- Rocket Passing Through Space Animation Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="200" alt="Space Rocket Animation" style="object-fit: cover; border-radius: 8px;" />
 
   <br /><br />
 
-  <!-- Multilingual Decoding Name Animation (English / Telugu / Hindi) -->
+  <!-- Permanent Large Glowing Name Header -->
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=38BDF8&text=PRITHVI%20SIDDHARTH&fontSize=52&animation=fadeIn&fontAlignY=50" width="100%" alt="PRITHVI SIDDHARTH" />
+  
+  <!-- Multilingual Subtitle (English / Telugu / Hindi) -->
+  <p align="center">
+    <code>పృథ్వి సిద్ధార్థ్ &nbsp;✦&nbsp; PRITHVI SIDDHARTH &nbsp;✦&nbsp; पृथ्वी सिद्धार्थ</code>
+  </p>
+
+  <br />
+
+  <!-- Typing Taglines Animation (Always Below The Name) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=PRITHVI+SIDDHARTH;%E0%B0%AA%E0%B1%83%E0%B0%A5%E0%B1%8D%E0%B0%B5%E0%B0%BF+%E0%B0%B8%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%A5%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A5%E0%B1%8D;%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80+%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5;Aspiring+Data+Scientist+%7C+ML+Engineer" alt="Multilingual Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&height=45&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Engineer;Transforming+Raw+Data+into+Actionable+Insights;Kaggle+Competitor+%26+Formula+1+Enthusiast;Building+Predictive+AI+%26+Scalable+ML+Systems" alt="Typing Tagline SVG" />
   </a>
 
   <br /><br />
@@ -440,4 +451,3 @@
     <em>"Data is the new oil, but insights are the fuel."</em>
   </p>
 </div>
-```
