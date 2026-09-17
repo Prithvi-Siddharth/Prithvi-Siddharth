@@ -1,18 +1,13 @@
 <!-- HERO -->
 <div align="center">
-  <!-- Starfield Banner -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="180" alt="Space Field" style="object-fit: cover; border-radius: 8px;" />
+  <!-- Starfield Space Field Banner with Shooting Stars -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="200" alt="Starfield Galaxy Field" style="object-fit: cover; border-radius: 8px;" />
 
   <br /><br />
 
-  <!-- Animated Header Title -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090e,50:0f172a,100:1e1b4b&height=200&section=header&text=PRITHVI%20SIDDHARTH&fontSize=44&fontColor=38bdf8&animation=fadeIn&fontAlignY=38" width="100%" alt="Prithvi Siddharth Header" />
-  
-  <br />
-
-  <!-- Animated Typing SVG -->
+  <!-- Multilingual Decoding Name Animation (English / Telugu / Hindi) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=50&lines=Aspiring+Data+Scientist+%7C+Machine+Learning+Engineer;Transforming+Raw+Data+into+Actionable+Insights;Building+Predictive+Models+%26+Scalable+ML+Systems;Kaggle+Competitor+%26+Formula+1+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=38BDF8&center=true&vCenter=true&random=false&width=700&height=60&lines=PRITHVI+SIDDHARTH;%E0%B0%AA%E0%B1%83%E0%B0%A5%E0%B1%8D%E0%B0%B5%E0%B0%BF+%E0%B0%B8%E0%B0%BF%E0%B0%A6%E0%B1%8D%E0%B0%A5%E0%B0%BE%E0%B0%B0%E0%B1%8D%E0%B0%A5%E0%B1%8D;%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80+%E0%A4%B8%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%A5%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A5;Aspiring+Data+Scientist+%7C+ML+Engineer" alt="Multilingual Typing Animation" />
   </a>
 
   <br /><br />
@@ -40,7 +35,7 @@
         <code>[PROFILE_OVERVIEW // PRITHVI SIDDHARTH]</code>
       </p>
       <p align="justify">
-        I am an aspiring Data Scientist with a strong interest in turning complex raw data into clear, actionable business insights. I specialize in building end-to-end Machine Learning pipelines, working with SQL databases, and designing predictive models that uncover hidden patterns and drive data-backed decision making.
+        I am an aspiring Data Scientist with a strong interest in turning complex raw data into clear, actionable insights. I specialize in building end-to-end Machine Learning pipelines, working with SQL databases, and designing predictive models that uncover hidden patterns and drive data-backed decision making.
       </p>
       <p align="justify">
         My technical focus spans statistical data analysis, supervised and unsupervised machine learning algorithms, deep learning architectures, and scalable ML system design.
@@ -152,40 +147,22 @@
 <!-- SECTION DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
 
-<!-- GITHUB UNIVERSE -->
+<!-- GITHUB METRICS -->
 <div align="center">
   <h2>// GITHUB ANALYTICS</h2>
 </div>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Prithvi-Siddharth&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" alt="Prithvi Siddharth GitHub Stats" height="175" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prithvi-Siddharth&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A855F7&currStreakNum=F43F5E" alt="Prithvi Siddharth GitHub Streak" height="175" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-Siddharth&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" />
-</div>
-
-<br />
-
-<!-- SECTION DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-<!-- CONTRIBUTIONS -->
-<div align="center">
-  <h2>// CONTRIBUTION ACTIVITY</h2>
-  <br />
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Prithvi-Siddharth&show_icons=true&theme=dark&hide_border=true&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" width="48%" />
   
-  <!-- Contribution Snake -->
-  <img src="https://raw.githubusercontent.com/Prithvi-Siddharth/Prithvi-Siddharth/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prithvi-Siddharth&layout=compact&theme=dark&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" width="48%" />
+
+  <br /><br />
+
+  <!-- GitHub Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prithvi-Siddharth&theme=react-dark&bg_color=0d1117&color=38bdf8&line=a855f7&point=f43f5e&area=true&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br />
